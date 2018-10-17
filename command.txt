@@ -1,0 +1,4 @@
+chdir …
+cd ~/octave
+cd "C:\\Users\\kevin\\Desktop\\Machine Learning\\machine-learning-ex?\\ex?"
+PS1('>>')
